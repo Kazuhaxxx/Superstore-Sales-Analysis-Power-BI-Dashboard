@@ -6,14 +6,10 @@ The dashboard is divided into four pages, with each page focusing on a different
 
 ## Dashboard Preview
 
-<!-- Add screenshots of your completed dashboard pages here -->
-
-<!-- Example:
-![Executive Overview](screenshots/executive-overview.png)
-![Product Performance](screenshots/product-performance.png)
-![Customer Insights](screenshots/customer-insights.png)
-![Geographic & Shipping Analysis](screenshots/geographic-shipping-analysis.png)
--->
+<img width="1373" height="770" alt="image" src="https://github.com/user-attachments/assets/1564e56c-4c45-4e6e-9da8-075dda3f7d24" />
+<img width="1371" height="765" alt="image" src="https://github.com/user-attachments/assets/b375187e-e7a1-4971-91ff-fe0029804920" />
+<img width="1375" height="756" alt="image" src="https://github.com/user-attachments/assets/cb6a6850-96f5-4bae-8e5f-9df386c14d1b" />
+<img width="1371" height="767" alt="image" src="https://github.com/user-attachments/assets/3d4e0ec1-b9d7-42d2-83c0-ab8a585b8565" />
 
 ## Dashboard Pages
 
